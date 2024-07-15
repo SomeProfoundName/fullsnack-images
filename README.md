@@ -1,4 +1,4 @@
-##Fullsnack Images
+## Fullsnack Images
 
 Images hosted on github for the [fullsnack database api](https://github.com/SomeProfoundName/aacw-harrypotter-backend-api) project.
 
